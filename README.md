@@ -190,7 +190,7 @@ Teamplate:
 
   Select avatar (model for demo) -> Select prompt-sets -> Click "send WebUI"
 
-  ![2-1](./images/2-1.JPG)
+  ![2-1](./images/2-1.jpg)
 
   Checkout the downloaded Images
 
